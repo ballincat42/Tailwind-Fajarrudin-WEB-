@@ -55,6 +55,6 @@ a{
   backdrop-filter: blur(2px);
 }
 .bg-img{
-  background-image:url('/img/bg-imgg.png');
+  background-image:url('img/bg-imgg.png');
   object-fit:contain;
 }
